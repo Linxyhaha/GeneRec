@@ -26,7 +26,7 @@ python select_thumbnail.py
 #### Thumbnail generation
 The personalized generated thumbnails can be obtained by running
 ```
-cd code/AI_Editor/thumbnail_gen
+cd code/AI_Editor/Thumbnail_gen
 python scripts/generate_thumbnail.py
 ```
 
