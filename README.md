@@ -10,9 +10,6 @@ This is the pytorch implementation of our paper:
 
 ## Usage
 
-### Data
-The experimental data are in './data' folder.
-
 ### AI Editor
 The codes for AI Editor are in './code/AI_Editor/' folder, including three tasks 1) thumbnail selection & thumbnail generation, 2) micro-video clipping, and 3) micro-video content editing.
 
@@ -65,3 +62,6 @@ At **inference** stage, the personalized created micro-videos can be obtained by
 cd code/AI_Creator/Content_creation/scripts
 sh gen.sh
 ```
+
+### Data
+Unfortunately, due to the data privacy concerns, we are unable to release the experimental datasets.
