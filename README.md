@@ -64,4 +64,4 @@ sh gen.sh
 ```
 
 ### Data
-Unfortunately, due to the data privacy concerns, we are unable to release the experimental datasets.
+Please feel free to send a request email for the data. The use of the data should be for research purpose only. 
